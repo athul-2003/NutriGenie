@@ -65,7 +65,6 @@ Nutrigenie/
 
 ## Demo
 [**Watch Demo Video**](https://github.com/user-attachments/assets/26be7f84-f750-478a-92f1-5ca7bd51136d)  
-*A demonstration of NutriGenie's functionality showcasing recipe generation and nutritional analysis.*
 
 ## Disclaimer
 It's difficult to give precise nutritional information for any dish without knowing the exact weight of each ingredient used. The nutritional content will vary considerably depending on portion sizes and the specific types and amounts of ingredients included. The nutritional insights provided by NutriGenie are approximations and should not be considered precise analyses. To get exact values, one would need to measure and weigh each ingredient precisely and then use a nutrition analysis tool.
